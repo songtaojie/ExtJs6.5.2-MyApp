@@ -14,9 +14,10 @@
      *      ]
      */
     "requires": [
-        "font-awesome"
+        "font-awesome",
+        "locale"
     ],
-
+    "locale":"zh_CN",
     /**
      * The relative path to the application's markup file (html, jsp, asp, etc.).
      */

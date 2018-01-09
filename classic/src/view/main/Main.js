@@ -93,9 +93,9 @@ Ext.define('MyApp.view.main.Main', {
     }, {
         title: 'Users',
         iconCls: 'fa-user',
-        bind: {
-            html: '{loremIpsum}'
-        }
+        items: [{
+            xtype: 'app-pics'
+        }]
     }, {
         title: 'Groups',
         iconCls: 'fa-users',

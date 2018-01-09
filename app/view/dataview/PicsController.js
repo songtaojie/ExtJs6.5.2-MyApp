@@ -13,7 +13,7 @@ Ext.define('MyApp.view.dataview.PicsController', {
        });
        
        Ext.getStore('pics').filter({
-            property: 'albumId',
+            property: 'AlbumId',
             operator: 'in',
             value   : albums
         }); 

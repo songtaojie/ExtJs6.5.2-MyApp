@@ -43,7 +43,7 @@ Ext.define('MyApp.view.dataview.Pics', {
                 store: 'pics',
                 tpl: [
                     '<tpl for=".">',
-                         '<div class="thumb"><img  src="{url}" title=""></div>',
+                         '<div class="thumb"><img  src="{Url}" title=""></div>',
                     '</tpl>'
                 ],
                 multiSelect: true,
@@ -52,7 +52,7 @@ Ext.define('MyApp.view.dataview.Pics', {
                 trackOver: true,
                 overItemCls: 'x-item-over',
                 itemSelector: 'div.thumb',
-                emptyText: 'No images to display'
+                emptyText: '没有可展示的图片'
             }
         ]
     }]
