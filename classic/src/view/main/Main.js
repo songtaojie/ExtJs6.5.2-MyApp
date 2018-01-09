@@ -22,7 +22,7 @@ Ext.define('MyApp.view.main.Main', {
     viewModel: 'main',
 
     ui: 'navigation',
-
+    plugins:'viewport',
     tabBarHeaderPosition: 1,
     titleRotation: 0,
     tabRotation: 0,
@@ -58,7 +58,7 @@ Ext.define('MyApp.view.main.Main', {
     },
 
     defaults: {
-        bodyPadding: 20,
+        bodyPadding: 0,
         tabConfig: {
             plugins: 'responsive',
             responsiveConfig: {
