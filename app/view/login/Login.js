@@ -27,17 +27,28 @@ Ext.define('MyApp.view.login.Login',{
         fieldLabel: '记住我',
         name: 'Remember'
     }],
-    dockedItems: [{
-        xtype: 'toolbar',
-        dock: 'bottom',
-        ui: 'footer',
-        cls:'toolBar-color',
-        // style:{
-        //     backgroundColor: '#ececec'
-        // },
-        items: [
-            { xtype: 'component', flex: 1 },
-            { xtype: 'button', text: 'Button 1' }
-        ]
+    // dockedItems: [{
+    //     xtype: 'toolbar',
+    //     dock: 'bottom',
+    //     ui: 'footer',
+    //     //cls:'toolBar-color',
+    //     // style:{
+    //     //     backgroundColor: '#ececec'
+    //     // },
+    //     items: [
+    //         { xtype: 'component', flex: 1 },
+    //         { xtype: 'button', text: 'Button 1' }
+    //     ]
+    // }]
+    buttons:[{
+        text:'登录',
+        listeners:{
+            click:'onLoginClick'
+        }
+    },{
+        text:'取消',
+        listeners:{
+            click:'onCancelClick'
+        }
     }]
 })

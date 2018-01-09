@@ -37,7 +37,15 @@ Ext.define('MyApp.view.main.Main', {
             },
             flex: 0
         },
-        iconCls: 'fa-th-list'
+        iconCls: 'fa-th-list',
+        items:[{
+            xtype:'button',
+            text:'注销',
+            listeners:{
+                click:'onLogoutClick'
+            }
+
+        }]
     },
 
     tabBar: {

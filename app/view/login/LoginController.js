@@ -4,9 +4,9 @@ Ext.define('MyApp.view.login.LoginController',{
     onLoginClick:function(){
         localStorage.setItem('LoginStatus',true);
         this.getView().destroy();
-        Ext.ViewPort.setActiveItem(Ext.create({
+       Ext.create({
             xtype:'app-main'
-        }));
+        });
     },
     onCancelClick:function(){
         this.getView().hide();

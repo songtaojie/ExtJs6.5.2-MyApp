@@ -10,7 +10,11 @@ Ext.define('MyApp.view.main.MainController', {
     onItemSelected: function (sender, record) {
         Ext.Msg.confirm('Confirm', 'Are you sure?', 'onConfirm', this);
     },
-
+    onLogoutClick:function(){
+        this.getView().destroy();
+        localStorage.removeItem('LoginStatus');
+        Ext.create('MyApp.view.login.Login');
+    },
     onConfirm: function (choice) {
         if (choice === 'yes') {
             //
