@@ -99,9 +99,9 @@ Ext.define('MyApp.view.main.Main', {
     }, {
         title: 'Groups',
         iconCls: 'fa-users',
-        bind: {
-            html: '{loremIpsum}'
-        }
+        items:[{
+            xtype:'column-basicChart'
+        }]
     }, {
         title: 'Settings',
         iconCls: 'fa-cog',

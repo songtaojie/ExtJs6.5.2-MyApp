@@ -25,6 +25,11 @@ Ext.define('MyApp.view.dataview.Pics', {
                 listeners:{ 
                     itemclick: 'onNodeSelect'
                 }, 
+                viewConfig:{
+                    plugins:{
+                        ptype:'treeviewdragdrop'
+                    }
+                },
                 dockedItems: [{
                     xtype: 'toolbar',
                     dock: 'top',

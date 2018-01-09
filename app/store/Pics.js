@@ -92,5 +92,5 @@ Ext.define('MyApp.store.Pics', {
     
     
 });
-
-Ext.create('MyApp.store.Pics').load();
+var pics = Ext.create('MyApp.store.Pics')
+pics.load();
