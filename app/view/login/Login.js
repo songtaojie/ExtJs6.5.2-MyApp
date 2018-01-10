@@ -32,12 +32,25 @@ Ext.define('MyApp.view.login.Login',{
     //     dock: 'bottom',
     //     ui: 'footer',
     //     //cls:'toolBar-color',
-    //     // style:{
-    //     //     backgroundColor: '#ececec'
-    //     // },
+    //     style:{
+    //         backgroundColor: '#ececec'
+    //     },
     //     items: [
     //         { xtype: 'component', flex: 1 },
-    //         { xtype: 'button', text: 'Button 1' }
+    //         { 
+    //             xtype: 'button', 
+    //             text: '登录',
+    //             listeners:{
+    //                 click:'onLoginClick'
+    //             }
+    //         },
+    //         { 
+    //             xtype: 'button',
+    //              text: '取消',
+    //             listeners:{
+    //                 click:'onCancelClick'
+    //             } 
+    //         }
     //     ]
     // }]
     buttons:[{

@@ -15,7 +15,9 @@ Ext.define('MyApp.view.main.Main', {
 
         'MyApp.view.main.MainController',
         'MyApp.view.main.MainModel',
-        'MyApp.view.main.List'
+        'MyApp.view.main.List',
+        'MyApp.store.ExpensebyMonth',
+        'MyApp.view.chart.Bar'
     ],
 
     controller: 'main',
@@ -26,7 +28,7 @@ Ext.define('MyApp.view.main.Main', {
     tabBarHeaderPosition: 1,
     titleRotation: 0,
     tabRotation: 0,
-
+   
     header: {
         layout: {
             align: 'stretchmax'
@@ -44,7 +46,6 @@ Ext.define('MyApp.view.main.Main', {
             listeners:{
                 click:'onLogoutClick'
             }
-
         }]
     },
 
@@ -58,11 +59,17 @@ Ext.define('MyApp.view.main.Main', {
 
     responsiveConfig: {
         tall: {
-            headerPosition: 'top'
+            headerPosition: 'bottom'
         },
         wide: {
             headerPosition: 'left'
-        }
+        },
+        'width < 768 && tall': {       
+            visible: false  
+          },
+          'width >= 768': {       
+            visible: true  
+          }  
     },
 
     defaults: {
@@ -99,8 +106,23 @@ Ext.define('MyApp.view.main.Main', {
     }, {
         title: 'Groups',
         iconCls: 'fa-users',
+        bodyStyle:{
+            overflow:'auto'
+        },
         items:[{
-            xtype:'column-basicChart'
+            xtype : 'combo',  
+            margin:10,
+            value : '一月',  
+            fieldLabel : '选择日期',  
+            store : [ '一月', '二月', '三月', '四月', '五月' ],  
+            listeners : {  
+                select : 'onMonthSelect'  
+            }  
+        },{
+            xtype:'chart-pie',
+        },{
+            xtype:'chart-bar',
+           
         }]
     }, {
         title: 'Settings',
