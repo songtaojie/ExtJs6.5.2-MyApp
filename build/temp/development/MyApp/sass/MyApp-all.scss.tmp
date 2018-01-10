@@ -1,5 +1,5 @@
 $app-name:  dynamic( 'MyApp' );
-$image-search-path: 'F:/MyProject/Ext/myapp/build/development/MyApp/classic/resources';
+$image-search-path: 'F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/build/development/MyApp/classic/resources';
 $theme-name:  dynamic( 'theme-aria' );
 $include-ext-abstractcomponent: dynamic(true);;
 $include-ext-abstractcontainer: dynamic(true);;
