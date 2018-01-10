@@ -3995,12 +3995,15 @@ the height of a multi-line element */
 .x-toolbar-more-icon.x-rtl {
     background-image: url(images/toolbar/default-more-left.png);
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-toolbar-default:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/toolbar/Toolbar.scss:598 */
 .x-toolbar-footer {
     padding: 6px 0 6px 6px;
@@ -4148,12 +4151,15 @@ the height of a multi-line element */
 .x-toolbar-more-icon.x-rtl {
     background-image: url(images/toolbar/footer-more-left.png);
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-toolbar-footer:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/form/trigger/Spinner.scss:71 */
 .x-form-trigger-spinner-default {
     width: 22px;
@@ -4886,6 +4892,7 @@ the height of a multi-line element */
 .x-panel .x-panel-header-default-collapsed-border-left {
     border-right-width: 1px !important;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-top:before {
     /*<if slicer>*/
@@ -4910,6 +4917,8 @@ the height of a multi-line element */
     display: none;
     content: "x-slicer:, stretch:left" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1336 */
 .x-panel-header-default-horizontal .x-tool-after-title {
     margin: 0 0 0 6px;
@@ -5356,12 +5365,15 @@ the height of a multi-line element */
 .x-panel-default-framed-mc {
     padding: 0px 0px 0px 0px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-default-framed:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/panel/panel-default-framed-corners.gif), sides:url(images/panel/panel-default-framed-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-panel-header-default-framed-top {
     -moz-border-radius-topleft: 4px;
@@ -5474,12 +5486,15 @@ the height of a multi-line element */
 .x-panel-header-default-framed-top-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-framed-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 0 5px, corners:url(images/panel-header/panel-header-default-framed-top-corners.gif), sides:url(images/panel-header/panel-header-default-framed-top-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-panel-header-default-framed-right {
     -moz-border-radius-topleft: 0;
@@ -5606,12 +5621,15 @@ the height of a multi-line element */
 .x-panel-header-default-framed-right-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-framed-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 0, corners:url(images/panel-header/panel-header-default-framed-right-corners.gif), corners-rtl:url(images/panel-header/panel-header-default-framed-right-corners-rtl.gif), sides:url(images/panel-header/panel-header-default-framed-right-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-panel-header-default-framed-bottom {
     -moz-border-radius-topleft: 0;
@@ -5724,12 +5742,15 @@ the height of a multi-line element */
 .x-panel-header-default-framed-bottom-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-framed-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:0 5px 5px 5px, corners:url(images/panel-header/panel-header-default-framed-bottom-corners.gif), sides:url(images/panel-header/panel-header-default-framed-bottom-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-panel-header-default-framed-left {
     -moz-border-radius-topleft: 4px;
@@ -5856,12 +5877,15 @@ the height of a multi-line element */
 .x-panel-header-default-framed-left-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-framed-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 0 5px 5px, corners:url(images/panel-header/panel-header-default-framed-left-corners.gif), corners-rtl:url(images/panel-header/panel-header-default-framed-left-corners-rtl.gif), sides:url(images/panel-header/panel-header-default-framed-left-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-panel-header-default-framed-collapsed-top {
     -moz-border-radius-topleft: 4px;
@@ -5974,12 +5998,15 @@ the height of a multi-line element */
 .x-panel-header-default-framed-collapsed-top-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-framed-collapsed-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/panel-header/panel-header-default-framed-collapsed-top-corners.gif), sides:url(images/panel-header/panel-header-default-framed-collapsed-top-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-panel-header-default-framed-collapsed-right {
     -moz-border-radius-topleft: 4px;
@@ -6106,12 +6133,15 @@ the height of a multi-line element */
 .x-panel-header-default-framed-collapsed-right-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-framed-collapsed-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/panel-header/panel-header-default-framed-collapsed-right-corners.gif), corners-rtl:url(images/panel-header/panel-header-default-framed-collapsed-right-corners-rtl.gif), sides:url(images/panel-header/panel-header-default-framed-collapsed-right-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-panel-header-default-framed-collapsed-bottom {
     -moz-border-radius-topleft: 4px;
@@ -6224,12 +6254,15 @@ the height of a multi-line element */
 .x-panel-header-default-framed-collapsed-bottom-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-framed-collapsed-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/panel-header/panel-header-default-framed-collapsed-bottom-corners.gif), sides:url(images/panel-header/panel-header-default-framed-collapsed-bottom-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-panel-header-default-framed-collapsed-left {
     -moz-border-radius-topleft: 4px;
@@ -6356,12 +6389,15 @@ the height of a multi-line element */
 .x-panel-header-default-framed-collapsed-left-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-panel-header-default-framed-collapsed-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/panel-header/panel-header-default-framed-collapsed-left-corners.gif), corners-rtl:url(images/panel-header/panel-header-default-framed-collapsed-left-corners-rtl.gif), sides:url(images/panel-header/panel-header-default-framed-collapsed-left-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1188 */
 .x-panel .x-panel-header-default-framed-top {
     border-bottom-width: 5px !important;
@@ -6716,12 +6752,15 @@ the height of a multi-line element */
 .x-tip-default-mc {
     padding: 0px 0px 0px 0px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tip-default:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:3px 3px 3px 3px, corners:url(images/tip/tip-default-corners.gif), sides:url(images/tip/tip-default-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tip/Tip.scss:318 */
 .x-tip-default {
     background-color: #eeeff0;
@@ -6940,12 +6979,15 @@ the height of a multi-line element */
 .x-tip-form-invalid-mc {
     padding: 0px 0px 0px 0px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tip-form-invalid:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:3px 3px 3px 3px, corners:url(images/tip/tip-form-invalid-corners.gif), sides:url(images/tip/tip-form-invalid-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tip/Tip.scss:318 */
 .x-tip-form-invalid {
     background-color: #eeeff0;
@@ -7223,12 +7265,15 @@ a.x-color-picker-item:hover {
 .x-btn-default-small-mc {
     padding: 1px 1px 1px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-default-small:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, frame-bg:url(images/btn/btn-default-small-fbg.gif), corners:url(images/btn/btn-default-small-corners.gif), sides:url(images/btn/btn-default-small-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:2463 */
 .x-btn-default-small {
     border-color: #222836;
@@ -7683,6 +7728,7 @@ a.x-color-picker-item:hover {
     border-width: 1px;
     border-color: #f8e5d1;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-focus.x-btn-default-small:before {
     /*<if slicer>*/
@@ -7719,6 +7765,8 @@ a.x-color-picker-item:hover {
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, corners:url(images/btn/btn-default-small-disabled-corners.gif), sides:url(images/btn/btn-default-small-disabled-sides.gif), frame-bg:url(images/btn/btn-default-small-disabled-fbg.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:3294 */
 .x-button-default-small-cell > .x-grid-cell-inner {
     padding-top: 1px;
@@ -7842,12 +7890,15 @@ a.x-color-picker-item:hover {
 .x-btn-default-medium-mc {
     padding: 1px 1px 1px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-default-medium:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, frame-bg:url(images/btn/btn-default-medium-fbg.gif), corners:url(images/btn/btn-default-medium-corners.gif), sides:url(images/btn/btn-default-medium-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:2463 */
 .x-btn-default-medium {
     border-color: #222836;
@@ -8302,6 +8353,7 @@ a.x-color-picker-item:hover {
     border-width: 1px;
     border-color: #f8e5d1;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-focus.x-btn-default-medium:before {
     /*<if slicer>*/
@@ -8338,6 +8390,8 @@ a.x-color-picker-item:hover {
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, corners:url(images/btn/btn-default-medium-disabled-corners.gif), sides:url(images/btn/btn-default-medium-disabled-sides.gif), frame-bg:url(images/btn/btn-default-medium-disabled-fbg.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:3294 */
 .x-button-default-medium-cell > .x-grid-cell-inner {
     padding-top: 0;
@@ -8461,12 +8515,15 @@ a.x-color-picker-item:hover {
 .x-btn-default-large-mc {
     padding: 1px 1px 1px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-default-large:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, frame-bg:url(images/btn/btn-default-large-fbg.gif), corners:url(images/btn/btn-default-large-corners.gif), sides:url(images/btn/btn-default-large-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:2463 */
 .x-btn-default-large {
     border-color: #222836;
@@ -8921,6 +8978,7 @@ a.x-color-picker-item:hover {
     border-width: 1px;
     border-color: #f8e5d1;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-focus.x-btn-default-large:before {
     /*<if slicer>*/
@@ -8957,6 +9015,8 @@ a.x-color-picker-item:hover {
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, corners:url(images/btn/btn-default-large-disabled-corners.gif), sides:url(images/btn/btn-default-large-disabled-sides.gif), frame-bg:url(images/btn/btn-default-large-disabled-fbg.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:3294 */
 .x-button-default-large-cell > .x-grid-cell-inner {
     padding-top: 0;
@@ -9080,12 +9140,15 @@ a.x-color-picker-item:hover {
 .x-btn-default-toolbar-small-mc {
     padding: 1px 1px 1px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-default-toolbar-small:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, frame-bg:url(images/btn/btn-default-toolbar-small-fbg.gif), corners:url(images/btn/btn-default-toolbar-small-corners.gif), sides:url(images/btn/btn-default-toolbar-small-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:2463 */
 .x-btn-default-toolbar-small {
     border-color: #222836;
@@ -9540,6 +9603,7 @@ a.x-color-picker-item:hover {
     border-width: 1px;
     border-color: #3b4353;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-focus.x-btn-default-toolbar-small:before {
     /*<if slicer>*/
@@ -9576,6 +9640,8 @@ a.x-color-picker-item:hover {
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, corners:url(images/btn/btn-default-toolbar-small-disabled-corners.gif), sides:url(images/btn/btn-default-toolbar-small-disabled-sides.gif), frame-bg:url(images/btn/btn-default-toolbar-small-disabled-fbg.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:3294 */
 .x-button-default-toolbar-small-cell > .x-grid-cell-inner {
     padding-top: 1px;
@@ -9699,12 +9765,15 @@ a.x-color-picker-item:hover {
 .x-btn-default-toolbar-medium-mc {
     padding: 1px 1px 1px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-default-toolbar-medium:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, frame-bg:url(images/btn/btn-default-toolbar-medium-fbg.gif), corners:url(images/btn/btn-default-toolbar-medium-corners.gif), sides:url(images/btn/btn-default-toolbar-medium-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:2463 */
 .x-btn-default-toolbar-medium {
     border-color: #222836;
@@ -10159,6 +10228,7 @@ a.x-color-picker-item:hover {
     border-width: 1px;
     border-color: #3b4353;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-focus.x-btn-default-toolbar-medium:before {
     /*<if slicer>*/
@@ -10195,6 +10265,8 @@ a.x-color-picker-item:hover {
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, corners:url(images/btn/btn-default-toolbar-medium-disabled-corners.gif), sides:url(images/btn/btn-default-toolbar-medium-disabled-sides.gif), frame-bg:url(images/btn/btn-default-toolbar-medium-disabled-fbg.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:3294 */
 .x-button-default-toolbar-medium-cell > .x-grid-cell-inner {
     padding-top: 0;
@@ -10318,12 +10390,15 @@ a.x-color-picker-item:hover {
 .x-btn-default-toolbar-large-mc {
     padding: 1px 1px 1px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-default-toolbar-large:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, frame-bg:url(images/btn/btn-default-toolbar-large-fbg.gif), corners:url(images/btn/btn-default-toolbar-large-corners.gif), sides:url(images/btn/btn-default-toolbar-large-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:2463 */
 .x-btn-default-toolbar-large {
     border-color: #222836;
@@ -10778,6 +10853,7 @@ a.x-color-picker-item:hover {
     border-width: 1px;
     border-color: #3b4353;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-focus.x-btn-default-toolbar-large:before {
     /*<if slicer>*/
@@ -10814,6 +10890,8 @@ a.x-color-picker-item:hover {
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, corners:url(images/btn/btn-default-toolbar-large-disabled-corners.gif), sides:url(images/btn/btn-default-toolbar-large-disabled-sides.gif), frame-bg:url(images/btn/btn-default-toolbar-large-disabled-fbg.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:3294 */
 .x-button-default-toolbar-large-cell > .x-grid-cell-inner {
     padding-top: 0;
@@ -10969,12 +11047,15 @@ a.x-color-picker-item:hover {
     border: 2px dashed #fff;
     pointer-events: none;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-progress-bar-default:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/ProgressBar.scss:285 */
 .x-progressbar-default-cell > .x-grid-cell-inner,
 .x-progress-default-cell > .x-grid-cell-inner,
@@ -11130,12 +11211,15 @@ a.x-color-picker-item:hover {
 .x-btn-group-default-framed-mc {
     padding: 0px 1px 0px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-group-default-framed:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:3px 3px 3px 3px, corners:url(images/btn-group/btn-group-default-framed-corners.gif), sides:url(images/btn-group/btn-group-default-framed-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-btn-group-default-framed-notitle {
     -webkit-border-radius: 3px;
@@ -11241,12 +11325,15 @@ a.x-color-picker-item:hover {
 .x-btn-group-default-framed-notitle-mc {
     padding: 0px 1px 0px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-group-default-framed-notitle:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:3px 3px 3px 3px, corners:url(images/btn-group/btn-group-default-framed-notitle-corners.gif), sides:url(images/btn-group/btn-group-default-framed-notitle-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/container/ButtonGroup.scss:243 */
 .x-btn-group-default-framed {
     border-color: #606068;
@@ -11432,12 +11519,15 @@ a.x-color-picker-item:hover {
 .x-window-default-mc {
     padding: 0px 0px 0px 0px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-default:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window/window-default-corners.gif), sides:url(images/window/window-default-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/window/Window.scss:567 */
 .x-window-body-default {
     border-color: #18181a;
@@ -11645,12 +11735,15 @@ a.x-color-picker-item:hover {
 .x-window-header-default-top-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-header-default-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window-header/window-header-default-top-corners.gif), sides:url(images/window-header/window-header-default-top-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-window-header-default-right {
     -moz-border-radius-topleft: 0;
@@ -11772,12 +11865,15 @@ a.x-color-picker-item:hover {
 .x-window-header-default-right-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-header-default-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window-header/window-header-default-right-corners.gif), corners-rtl:url(images/window-header/window-header-default-right-corners-rtl.gif), sides:url(images/window-header/window-header-default-right-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-window-header-default-bottom {
     -moz-border-radius-topleft: 0;
@@ -11890,12 +11986,15 @@ a.x-color-picker-item:hover {
 .x-window-header-default-bottom-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-header-default-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window-header/window-header-default-bottom-corners.gif), sides:url(images/window-header/window-header-default-bottom-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-window-header-default-left {
     -moz-border-radius-topleft: 4px;
@@ -12017,12 +12116,15 @@ a.x-color-picker-item:hover {
 .x-window-header-default-left-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-header-default-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window-header/window-header-default-left-corners.gif), corners-rtl:url(images/window-header/window-header-default-left-corners-rtl.gif), sides:url(images/window-header/window-header-default-left-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-window-header-default-collapsed-top {
     -webkit-border-radius: 4px;
@@ -12128,12 +12230,15 @@ a.x-color-picker-item:hover {
 .x-window-header-default-collapsed-top-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-header-default-collapsed-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window-header/window-header-default-collapsed-top-corners.gif), sides:url(images/window-header/window-header-default-collapsed-top-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-window-header-default-collapsed-right {
     -webkit-border-radius: 4px;
@@ -12248,12 +12353,15 @@ a.x-color-picker-item:hover {
 .x-window-header-default-collapsed-right-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-header-default-collapsed-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window-header/window-header-default-collapsed-right-corners.gif), corners-rtl:url(images/window-header/window-header-default-collapsed-right-corners-rtl.gif), sides:url(images/window-header/window-header-default-collapsed-right-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-window-header-default-collapsed-bottom {
     -webkit-border-radius: 4px;
@@ -12359,12 +12467,15 @@ a.x-color-picker-item:hover {
 .x-window-header-default-collapsed-bottom-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-header-default-collapsed-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window-header/window-header-default-collapsed-bottom-corners.gif), sides:url(images/window-header/window-header-default-collapsed-bottom-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-window-header-default-collapsed-left {
     -webkit-border-radius: 4px;
@@ -12479,12 +12590,15 @@ a.x-color-picker-item:hover {
 .x-window-header-default-collapsed-left-mc {
     padding: 5px 5px 5px 5px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-window-header-default-collapsed-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 5px 5px, corners:url(images/window-header/window-header-default-collapsed-left-corners.gif), corners-rtl:url(images/window-header/window-header-default-collapsed-left-corners-rtl.gif), sides:url(images/window-header/window-header-default-collapsed-left-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/window/Window.scss:857 */
 .x-window-header-default .x-window-header-icon {
     width: 16px;
@@ -13195,6 +13309,7 @@ a.x-monthpicker-yearnav-button:hover {
 .x-monthpicker-small .x-monthpicker-yearnav-button {
     margin-top: 8px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-datepicker-header:before {
     /*<if slicer>*/
@@ -13207,6 +13322,8 @@ a.x-monthpicker-yearnav-button:hover {
     display: none;
     content: "x-slicer:, stretch:bottom" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/src/form/field/Date.scss:2 */
 .x-form-field-date .x-form-date-trigger {
     background-image: url(images/form/date-trigger.png);
@@ -13684,6 +13801,7 @@ a.x-monthpicker-yearnav-button:hover {
 .x-no-header-borders .x-column-header .x-column-header-inner {
     padding-top: 7px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-column-header:before {
     /*<if slicer>*/
@@ -13696,6 +13814,8 @@ a.x-monthpicker-yearnav-button:hover {
     display: none;
     content: "x-slicer:" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/src/grid/column/Action.scss:1 */
 .x-grid-cell-inner-action-col {
     padding: 5px 4px 5px 4px;
@@ -13877,12 +13997,15 @@ a.x-monthpicker-yearnav-button:hover {
 .x-btn-grid-cell-small-mc {
     padding: 1px 1px 1px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-grid-cell-small:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, frame-bg:url(images/btn/btn-grid-cell-small-fbg.gif), corners:url(images/btn/btn-grid-cell-small-corners.gif), sides:url(images/btn/btn-grid-cell-small-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:2463 */
 .x-btn-grid-cell-small {
     border-color: #222836;
@@ -14300,6 +14423,7 @@ a.x-monthpicker-yearnav-button:hover {
 .x-nbr .x-segmented-button-item-vertical.x-btn-grid-cell-small.x-segmented-button-last:after {
     bottom: 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-btn-focus.x-btn-grid-cell-small:before {
     /*<if slicer>*/
@@ -14336,6 +14460,8 @@ a.x-monthpicker-yearnav-button:hover {
     display: none;
     content: "x-slicer:, stretch:bottom, frame:3px 3px 3px 3px, corners:url(images/btn/btn-grid-cell-small-disabled-corners.gif), sides:url(images/btn/btn-grid-cell-small-disabled-sides.gif), frame-bg:url(images/btn/btn-grid-cell-small-disabled-fbg.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/button/Button.scss:3294 */
 .x-button-grid-cell-small-cell > .x-grid-cell-inner {
     padding-top: 1px;
@@ -15294,12 +15420,15 @@ a.x-monthpicker-yearnav-button:hover {
 .x-grid-row-editor-buttons-default-bottom-mc {
     padding: 5px 1px 1px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-grid-row-editor-buttons-default-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:0 5px 5px 5px, corners:url(images/grid-row-editor-buttons/grid-row-editor-buttons-default-bottom-corners.gif), sides:url(images/grid-row-editor-buttons/grid-row-editor-buttons-default-bottom-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-grid-row-editor-buttons-default-top {
     -moz-border-radius-topleft: 5px;
@@ -15412,12 +15541,15 @@ a.x-monthpicker-yearnav-button:hover {
 .x-grid-row-editor-buttons-default-top-mc {
     padding: 1px 1px 5px 1px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-grid-row-editor-buttons-default-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:5px 5px 0 5px, corners:url(images/grid-row-editor-buttons/grid-row-editor-buttons-default-top-corners.gif), sides:url(images/grid-row-editor-buttons/grid-row-editor-buttons-default-top-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/src/grid/plugin/RowEditing.scss:108 */
 .x-grid-row-editor-buttons {
     border-color: #3a4155;
@@ -16033,12 +16165,15 @@ div.x-border-layout-ct {
 .x-tab-default-top-mc {
     padding: 5px 10px 4px 10px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-default-top:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:3px 3px 3px 3px, corners:url(images/tab/tab-default-top-corners.gif), sides:url(images/tab/tab-default-top-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-default-bottom {
     -moz-border-radius-topleft: 0;
@@ -16151,12 +16286,15 @@ div.x-border-layout-ct {
 .x-tab-default-bottom-mc {
     padding: 4px 10px 5px 10px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-default-bottom:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:3px 3px 3px 3px, corners:url(images/tab/tab-default-bottom-corners.gif), sides:url(images/tab/tab-default-bottom-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-default-left {
     -moz-border-radius-topleft: 3px;
@@ -16269,12 +16407,15 @@ div.x-border-layout-ct {
 .x-tab-default-left-mc {
     padding: 5px 10px 4px 10px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-default-left:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:3px 3px 3px 3px, corners:url(images/tab/tab-default-left-corners.gif), sides:url(images/tab/tab-default-left-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-default-right {
     -moz-border-radius-topleft: 0;
@@ -16387,12 +16528,15 @@ div.x-border-layout-ct {
 .x-tab-default-right-mc {
     padding: 5px 10px 4px 10px;
 }
+<<<<<<< HEAD
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
 .x-cmd-slicer.x-tab-default-right:before {
     /*<if slicer>*/
     display: none;
     content: "x-slicer:, frame:3px 3px 3px 3px, corners:url(images/tab/tab-default-right-corners.gif), sides:url(images/tab/tab-default-right-sides.gif)" !important;
 }
+=======
+>>>>>>> master
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2672 */
 .x-tab-default {
     border-color: #2e3746;
@@ -16409,4 +16553,305 @@ div.x-border-layout-ct {
 /* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2740 */
 .x-tab-default-top.x-tab-rotate-left {
     margin: 0 0 0 1px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2744 */
+.x-tab-default-top.x-tab-rotate-left.x-rtl {
+    margin: 0 1px 0 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2763 */
+.x-keyboard-mode .x-tab-default-top.x-tab-focus {
+    -webkit-box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+    -moz-box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+    box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2794 */
+.x-keyboard-mode .x-tab-default-top.x-tab-focus.x-tab-over {
+    -webkit-box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+    -moz-box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+    box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2825 */
+.x-keyboard-mode .x-tab-default-top.x-tab-focus.x-tab-active {
+    -webkit-box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+    -moz-box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+    box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2852 */
+.x-tab-default-right {
+    margin: 0 0 1px 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2856 */
+.x-tab-default-right.x-rtl {
+    margin: 0 0 1px 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2861 */
+.x-tab-default-right.x-tab-rotate-right {
+    margin: 1px 0 0 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2865 */
+.x-tab-default-right.x-tab-rotate-right.x-rtl {
+    margin: 1px 0 0 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2884 */
+.x-keyboard-mode .x-tab-default-right.x-tab-focus {
+    -webkit-box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+    -moz-box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+    box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2915 */
+.x-keyboard-mode .x-tab-default-right.x-tab-focus.x-tab-over {
+    -webkit-box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+    -moz-box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+    box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2946 */
+.x-keyboard-mode .x-tab-default-right.x-tab-focus.x-tab-active {
+    -webkit-box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+    -moz-box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+    box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2973 */
+.x-tab-default-bottom {
+    margin: 0 1px 0 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2977 */
+.x-tab-default-bottom.x-rtl {
+    margin: 0 0 0 1px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2982 */
+.x-tab-default-bottom.x-tab-rotate-left {
+    margin: 0 0 0 1px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2986 */
+.x-tab-default-bottom.x-tab-rotate-left.x-rtl {
+    margin: 0 1px 0 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3005 */
+.x-keyboard-mode .x-tab-default-bottom.x-tab-focus {
+    -webkit-box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+    -moz-box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+    box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3036 */
+.x-keyboard-mode .x-tab-default-bottom.x-tab-focus.x-tab-over {
+    -webkit-box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+    -moz-box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+    box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3067 */
+.x-keyboard-mode .x-tab-default-bottom.x-tab-focus.x-tab-active {
+    -webkit-box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+    -moz-box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+    box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3094 */
+.x-tab-default-left {
+    margin: 0 0 1px 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3098 */
+.x-tab-default-left.x-rtl {
+    margin: 0 0 1px 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3103 */
+.x-tab-default-left.x-tab-rotate-right {
+    margin: 1px 0 0 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3107 */
+.x-tab-default-left.x-tab-rotate-right.x-rtl {
+    margin: 1px 0 0 0;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3126 */
+.x-keyboard-mode .x-tab-default-left.x-tab-focus {
+    -webkit-box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+    -moz-box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+    box-shadow: #dfe2e8 0 1px 0px 0 inset, #dfe2e8 0 -1px 0px 0 inset, #dfe2e8 -1px 0 0px 0 inset, #dfe2e8 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3157 */
+.x-keyboard-mode .x-tab-default-left.x-tab-focus.x-tab-over {
+    -webkit-box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+    -moz-box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+    box-shadow: #e2e5eb 0 1px 0px 0 inset, #e2e5eb 0 -1px 0px 0 inset, #e2e5eb -1px 0 0px 0 inset, #e2e5eb 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3188 */
+.x-keyboard-mode .x-tab-default-left.x-tab-focus.x-tab-active {
+    -webkit-box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+    -moz-box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+    box-shadow: #fbe9cc 0 1px 0px 0 inset, #fbe9cc 0 -1px 0px 0 inset, #fbe9cc -1px 0 0px 0 inset, #fbe9cc 1px 0 0px 0 inset;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3215 */
+.x-tab-button-default {
+    height: 16px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3220 */
+.x-tab-inner-default {
+    font: bold 15px/16px helvetica, arial, verdana, sans-serif;
+    color: #fff;
+    max-width: 100%;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3236 */
+.x-tab-icon-right > .x-tab-inner-default,
+.x-tab-icon-left > .x-tab-inner-default {
+    max-width: calc(100% - 16px);
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3244 */
+.x-tab-icon-el-default {
+    min-height: 16px;
+    background-position: center center;
+    font-size: 16px;
+    line-height: 16px;
+    color: #fff;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3245 */
+.x-tab-icon-left > .x-tab-icon-el-default,
+.x-tab-icon-right > .x-tab-icon-el-default {
+    width: 16px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3250 */
+.x-tab-icon-top > .x-tab-icon-el-default,
+.x-tab-icon-bottom > .x-tab-icon-el-default {
+    min-width: 16px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3266 */
+.x-tab-icon-el-default.x-tab-glyph {
+    opacity: 0.5;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3279 */
+.x-ie8 .x-tab-icon-el-default.x-tab-glyph {
+    color: #b0b7c6;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3286 */
+.x-tab-text.x-tab-icon-left > .x-tab-icon-el-default {
+    margin-right: 6px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3290 */
+.x-tab-text.x-tab-icon-left > .x-tab-icon-el-default.x-rtl {
+    margin-right: 0;
+    margin-left: 6px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3297 */
+.x-tab-text.x-tab-icon-right > .x-tab-icon-el-default {
+    margin-left: 6px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3301 */
+.x-tab-text.x-tab-icon-right > .x-tab-icon-el-default.x-rtl {
+    margin-left: 0;
+    margin-right: 6px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3308 */
+.x-tab-text.x-tab-icon-top > .x-tab-icon-el-default {
+    margin-bottom: 6px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3312 */
+.x-tab-text.x-tab-icon-bottom > .x-tab-icon-el-default {
+    margin-top: 6px;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3318 */
+.x-keyboard-mode .x-tab-focus.x-tab-default {
+    border-color: #616f8c;
+    background-color: #616f8c;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3454 */
+.x-tab-over.x-tab-default {
+    border-color: #6d7b9a;
+    background-color: #6d7b9a;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3567 */
+.x-keyboard-mode .x-tab-focus.x-tab-over.x-tab-default {
+    border-color: #6d7b9a;
+    background-color: #6d7b9a;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3685 */
+.x-tab.x-tab-active.x-tab-default {
+    border-color: #74400e;
+    background-color: #ed9200;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3761 */
+.x-tab.x-tab-active.x-tab-default .x-tab-icon-el {
+    color: #fff;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3769 */
+.x-ie8 .x-tab.x-tab-active.x-tab-default .x-tab-icon-el {
+    color: #f6c980;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3797 */
+.x-keyboard-mode .x-tab-focus.x-tab-active.x-tab-default {
+    border-color: #74400e;
+    background-color: #ed9200;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3916 */
+.x-tab.x-tab-disabled.x-tab-default {
+    border-color: #2e3746;
+    background-color: #616f8c;
+    cursor: default;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3976 */
+.x-tab.x-tab-disabled.x-tab-default .x-tab-inner-default {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+    opacity: 0.3;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4000 */
+.x-tab.x-tab-disabled.x-tab-default .x-tab-icon-el-default {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    opacity: 0.5;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4005 */
+.x-tab.x-tab-disabled.x-tab-default .x-tab-icon-el {
+    color: #fff;
+    opacity: 0.3;
+    filter: none;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4020 */
+.x-ie8 .x-tab.x-tab-disabled.x-tab-default .x-tab-icon-el {
+    color: #909aaf;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4046 */
+.x-nbr .x-tab-default {
+    background-image: none;
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-over .x-tab-default-top-tl,
+.x-tab-over .x-tab-default-top-bl,
+.x-tab-over .x-tab-default-top-tr,
+.x-tab-over .x-tab-default-top-br,
+.x-tab-over .x-tab-default-top-tc,
+.x-tab-over .x-tab-default-top-bc {
+    background-image: url(images/tab/tab-default-top-over-corners.gif);
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-over .x-tab-default-top-ml,
+.x-tab-over .x-tab-default-top-mr {
+    background-image: url(images/tab/tab-default-top-over-sides.gif);
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-over .x-tab-default-top-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-default-top-over-fbg.gif);
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus .x-tab-default-top-tl,
+.x-tab-focus .x-tab-default-top-bl,
+.x-tab-focus .x-tab-default-top-tr,
+.x-tab-focus .x-tab-default-top-br,
+.x-tab-focus .x-tab-default-top-tc,
+.x-tab-focus .x-tab-default-top-bc {
+    background-image: url(images/tab/tab-default-top-focus-corners.gif);
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus .x-tab-default-top-ml,
+.x-tab-focus .x-tab-default-top-mr {
+    background-image: url(images/tab/tab-default-top-focus-sides.gif);
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus .x-tab-default-top-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-default-top-focus-fbg.gif);
+}
+/* F:/C_Project/Git/Source/ExtJs6.5/ExtJs6.5.2-MyApp/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-over .x-tab-default-top-tl,
+.x-tab-focus.x-tab-over .x-tab-default-top-bl,
+.x-tab-focus.x-tab-over .x-tab-default-top-tr,
+.x-tab-focus.x-tab-over .x-tab-default-top-br,
+.x-tab-focus.x-tab-over .x-tab-default-top-tc,
+.x-tab-focus.x-tab-over .x-tab-default-top-bc {
+    background-image: url(images/tab/tab-default-top-focus-over-corners.gif);
 }
